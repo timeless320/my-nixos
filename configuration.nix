@@ -64,7 +64,7 @@
   programs.steam = {
     enable = true;
     remotePlay.openFirewall = true;
-    dedicatedServer.openFrewall = true;
+    dedicatedServer.openFirewall = true;
   };
 
   # hyprland
